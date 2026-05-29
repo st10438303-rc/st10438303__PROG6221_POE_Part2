@@ -1,0 +1,10 @@
+C:\Users\Student\Desktop\POE_Part2\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Student\Desktop\POE_Part2\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Student\Desktop\POE_Part2\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net6.0-windows\CybersecurityChatbot_MarkupCompile.cache
+C:\Users\Student\Desktop\POE_Part2\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Student\Desktop\POE_Part2\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net6.0-windows\CybersecurityChatbot.g.resources
+C:\Users\Student\Desktop\POE_Part2\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net6.0-windows\CybersecurityChatbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\POE_Part2\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net6.0-windows\CybersecurityChatbot.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\POE_Part2\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net6.0-windows\CybersecurityChatbot.AssemblyInfo.cs
+C:\Users\Student\Desktop\POE_Part2\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net6.0-windows\CybersecurityChatbot.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\POE_Part2\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net6.0-windows\CybersecurityChatbot.csproj.AssemblyReference.cache
